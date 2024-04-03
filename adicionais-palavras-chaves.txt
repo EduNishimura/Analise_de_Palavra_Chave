@@ -1,0 +1,77 @@
+Combo de palavras mais comum por adicionais:
+Adicional Noturno:
+salário base: 21
+hora normal: 19
+motoristas auxiliares: 18
+reunião segurança: 17
+adicional periculosidade: 16
+auxiliares viagem: 15
+viagem trocador: 15
+trocador fiscais: 15
+valor hora: 15
+empresa poderá: 13
+
+Adicional Periculosidade:
+banco horas: 51
+piso salarial: 28
+ajuda custo: 22
+horas extraordinárias: 21
+horas extras: 20
+empregados onshore: 18
+semanal remunerado: 18
+valor hora: 18
+horas trabalhadas: 16
+adicional adicional: 16
+
+adicional tempo de serviço:
+tempo serviço: 64
+mesma empresa: 47
+prêmio assiduidade: 35
+aviso prévio: 33
+trinta dias: 32
+serviço empresa: 29
+termo quitação: 28
+quitação anual: 28
+comprovação pagamento: 28
+acordo coletivo: 28
+
+adicional sobreaviso:
+cláusula quadragésima: 45
+horas extras: 31
+regime teletrabalho: 30
+sobre valor: 28
+remuneradas acréscimo: 28
+cento sobre: 28
+prestação serviços: 25
+horas trabalhadas: 24
+jornada trabalho: 22
+controle jornada: 22
+
+Expressões com 3 termos mais usados:
+Adicional Noturno:
+[('sobre o valor', 68), ('valor da hora', 63), ('o valor da', 61), ('jornada de trabalho', 59), ('da hora normal', 55), ('de um dia', 50), ('o adicional noturno', 47), ('por cento sobre', 46), ('do dia seguinte', 44), ('label class label', 41), ('class label class', 41), ('e cinco por', 41), ('cinco por cento', 41), ('horas de um', 40), ('20 vinte por', 37), ('vinte por cento', 37), ('de 20 vinte', 36), ('cento sobre o', 35), ('adicional noturno adicional', 33), ('05 00 horas', 33)]
+
+Adicional periculosidade:
+[('adicional de periculosidade', 240), ('o adicional de', 96), ('do adicional de', 71), ('banco de horas', 54), ('30 trinta por', 50), ('trinta por cento', 
+50), ('adicional de risco', 47), ('de 30 trinta', 42), ('contrato de trabalho', 42), ('adicional de insalubridade', 41), ('valor de r', 37), ('ajuda de custo', 37), ('label class label', 36), ('class label class', 36), ('seguro de vida', 36), ('fica estabelecido que', 35), ('no valor de', 34), ('por cento sobre', 33), ('ao adicional de', 33), ('com adicional de', 33)]
+
+Adicional tempo de serviço:
+[('por tempo de', 285), ('de tempo de', 202), ('na mesma empresa', 169), ('contrato de trabalho', 138), ('cinco anos de', 136), ('12 doze meses', 122), ('30 trinta dias', 113), ('adicional por tempo', 102), ('do tempo de', 97), ('5 cinco anos', 86), ('tempo de na', 85), ('ao tempo de', 85), ('de na mesma', 78), ('adicional de tempo', 76), ('de na empresa', 73), ('por justa causa', 71), ('do contrato de', 70), ('por cento do', 70), ('ao empregado que', 70), ('jornada de trabalho', 68)]
+
+Adicional Sobreaviso:
+[('jornada de trabalho', 266), ('domingos e feriados', 194), ('de horas extras', 173), ('da hora normal', 167), ('em regime de', 155), ('regime de sobreaviso', 152), ('valor da hora', 148), ('normal de trabalho', 132), ('adicional de sobreaviso', 116), ('banco de horas', 114), ('as horas extras', 107), ('de trabalho e', 96), ('de segunda a', 95), ('aos domingos e', 94), ('a jornada de', 85), ('sistema de gerenciamento', 81), ('de gerenciamento de', 81), ('sistema 
+de registro', 81), ('de registro de', 81), ('os empregados que', 80)]
+
+
+
+Adicional noturno: 
+"adicional noturno", "20%", "22:00", "5:00", "noturno", "20 por cento".
+
+Adicional periculosidade:
+"periculosidade", "30%", "30 por cento", "adicional periculosidade", "lei 12", "adicional de risco"
+
+Adicional tempo de serviço: 
+"5 anos", "cinco anos", "adicional tempo", "adicional por tempo", "anuênio", "biênio", "triênio", "quinquênio".
+
+Adicional sobreaviso:
+"sobreaviso", "regime sobreaviso", "1/3".
